@@ -1,5 +1,5 @@
 
-import picture from "./picture1.png"; // or whichever image you want
+import picture from "./Picture1.png"; // or whichever image you want
 
 
 
